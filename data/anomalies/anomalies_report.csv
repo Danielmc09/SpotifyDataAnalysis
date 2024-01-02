@@ -1,0 +1,15 @@
+Tipo,Descripción,Detalles
+Duplicados,Filas duplicadas,18 filas duplicadas
+Valor Nulo,Valores nulos en columna track_id,8 valores nulos
+Valor Nulo,Valores nulos en columna track_name,7 valores nulos
+Valor Nulo,Valores nulos en columna audio_features.danceability,2 valores nulos
+Valor Nulo,Valores nulos en columna audio_features.energy,2 valores nulos
+Valor Nulo,Valores nulos en columna audio_features.key,1 valores nulos
+Valor Nulo,Valores nulos en columna audio_features.loudness,2 valores nulos
+Valor Nulo,Valores nulos en columna audio_features.speechiness,1 valores nulos
+Valor Nulo,Valores nulos en columna audio_features.acousticness,1 valores nulos
+Valor Nulo,Valores nulos en columna audio_features.liveness,1 valores nulos
+Valor Nulo,Valores nulos en columna audio_features.tempo,1 valores nulos
+Valor Nulo,Valores nulos en columna audio_features.time_signature,1 valores nulos
+Valor Nulo,Valores nulos en columna album_name,62 valores nulos
+Unicidad,IDs de pista no son únicos,27 IDs repetidos
